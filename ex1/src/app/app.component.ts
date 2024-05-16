@@ -10,7 +10,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'ex1';
-  mensagem = "bananas";
 
   isMouseOver: boolean = false;
   valorAtual: string = '';
